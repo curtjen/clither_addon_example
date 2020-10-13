@@ -1,4 +1,6 @@
 {
-  "zshrc": "rcs/zshrc",
-  "vimrc": "rcs/vimrc"
+  "rcs": {
+    "zshrc": "rcs/zshrc",
+    "vimrc": "rcs/vimrc"
+  }
 }
