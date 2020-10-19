@@ -4,7 +4,7 @@
     "vimrc": "rcs/vimrc"
   },
   "bins": [
-    "some_other_scripts",
-    "some_scripts"
+    "bins/some_other_scripts",
+    "bins/some_scripts"
   ]
 }
