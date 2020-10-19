@@ -2,5 +2,9 @@
   "rcs": {
     "zshrc": "rcs/zshrc",
     "vimrc": "rcs/vimrc"
-  }
+  },
+  "bins": [
+    some_other_scripts,
+    some_scripts
+  ]
 }
